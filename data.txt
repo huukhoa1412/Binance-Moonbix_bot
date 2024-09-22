@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A710221223%2C%22first_name%22%3A%22Raz%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22raztrader%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=1015238270363506048&chat_type=sender&auth_date=1726980896&hash=ceb0b86e8cebe6aa8d40f2431ff8e93881526c73a23f10526e739256dd60d7a3
